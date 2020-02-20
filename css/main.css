@@ -42,11 +42,6 @@ ul.posts {
 }
 
 ul.posts li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
