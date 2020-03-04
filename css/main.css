@@ -27,11 +27,22 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #35b3c6;
 }
+h2 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #35b3c6;
+}
 p {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
+}
+span {
+        font-size: 1em;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        line-height: 1.4em;
+        color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -44,9 +55,3 @@ ul {
   margin: 0;
   padding: 0;
 }
-
-.line{
-    width: 112px;
-    height: 47px;
-    border-bottom: 1px solid black;
-    }
